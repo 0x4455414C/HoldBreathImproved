@@ -1,7 +1,7 @@
 modded class GameConstants
 {
 	//* STAMINA FIXED BREATH DRAIN */
-	const float STAMINA_DRAIN_HOLD_BREATH 				   = 0.2; // Rate at which stamina drains when holding breath.	
+	const float STAMINA_DRAIN_HOLD_BREATH 				   = 0.15; // Reduces Stamina Drain when holding breath.	
 	//* STAMINA BREATH DRAIN LINEAR */
 	//const float	STAMINA_DRAIN_HOLD_BREATH_START		   = 0.2; //in units (how much holding breath depletes stamina at the start)
 	//const float	STAMINA_DRAIN_HOLD_BREATH_EXPONENT     = 4.0;
